@@ -22,3 +22,8 @@ Political Mashup has been generously supported by many students and volunteers, 
 * 2013-2017: Digging Into Data #640-006-014 <https://diggingintodata.org/awards/2013/project/digging-linked-parliamentary-data>
 * 2013-2019: NWO #314-99-108 <https://www.nwo.nl/en/research-and-results/research-projects/i/58/10458.html>
 * 2018-2021: NWO CISC.CC.016 <https://www.nwo.nl/en/research-and-results/research-projects/i/58/10458.html>
+
+Various internal documentation (use at your own risk):
+* Outdated introduction: <http://data.politicalmashup.nl/RDF/parlbench.html> 
+* Incomplete but very detailed: <http://documentation.politicalmashup.nl/>
+

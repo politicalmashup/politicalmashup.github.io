@@ -1,6 +1,6 @@
 # Political Mashup Project
 
-This is the landing page for the Political Mashup Projects.  What started as a hallway conversation and a pilot project, grew into a series of projects and collaborations over more than a decade, The Political Mashup Projects has been funded with a stream of projects since 2008 until today, and it's approach, it's data schema, it's tools, and it's data have been widely used by other researchers and projects. 
+This is the landing page for the Political Mashup Projects.  What started as a hallway conversation and a pilot project, grew into a series of projects and collaborations over more than a decade, The Political Mashup Projects has been funded with a stream of projects since 2008 until today, and its approach, its data schema, its tools, and its data have been widely used by other researchers and projects. 
 
 # Resources
 

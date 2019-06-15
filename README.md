@@ -1,13 +1,27 @@
 # Political Mashup Project
 
-This is the landing page for the Political Mashup Projects.  What started as a hallway conversation and a pilot project, grew into a series of projects and collaborations over more than a decade.  The Political Mashup Projects has been funded by a stream of projects since 2008 until today.  Its approach, its data schema, its tools, and its data have been highly influential and widely used by other researchers and projects. 
+Welcome to the Political Mashup Projects.  What started as a hallway conversation and a pilot project, grew into a series of projects and collaborations over more than a decade.  The Political Mashup Projects has been funded by a stream of projects since 2008 until today.  Its approach, its data schema, its tools, and its data have been highly influential and widely used by other researchers and projects. 
 
 # Resources
 
-Links to various resources:
-* You can find all our proceedings through the search engine <http://search.politicalmashup.nl/>
-* Schemas: <http://schema.politicalmashup.nl/>
-* Data archive: <http://data.politicalmashup.nl/permanent/>
+## Tools
+
+The PM projects produced semantically annotated parliamentary proceedings/hansards for eight countries, covering the Netherlands, the UK, Canada, Belgium, the EU, and various nordic countries (Denmark, Sweden, Norway).  We also provide rich data about parties and policians.
+
+All data can be explored from within one search interface: http://search.politicalmashup.nl/ and underlying API.
+
+## Format
+
+All proceedings are encoded and validated in the same XML format, according to a TEI inspired Relax NG schema. We also proposed schemas to store data about parties and politicians. Each proceedings comes with metadata encoded using the Dublin Core standard.
+
+The schemas are available at http://schema.politicalmashup.nl/. 
+
+## Data
+
+Bulk download of in various format is available from our data archive: <http://data.politicalmashup.nl/permanent/>
+
+
+## Documentation 
 
 Various other documentation:
 * To be added.

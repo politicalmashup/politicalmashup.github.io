@@ -6,13 +6,13 @@ Welcome to the _Political Mashup Projects_.  What started as a hallway conversat
 
 The PM projects produced semantically annotated parliamentary proceedings/hansards for eight countries, covering the Netherlands, the UK, Canada, Belgium, the EU, and various nordic countries (Denmark, Sweden, Norway).  We also provide rich data about parties and policians.
 
-All data can be explored from within one search interface: http://search.politicalmashup.nl/ and underlying API.
+All data can be explored from within one search interface: <http://search.politicalmashup.nl/> and underlying API.
 
 ## Format
 
 All proceedings are encoded and validated in the same XML format, according to a TEI inspired Relax NG schema. We also proposed schemas to store data about parties and politicians. Each proceedings comes with metadata encoded using the Dublin Core standard.
 
-The schemas are available at http://schema.politicalmashup.nl/. 
+The schemas are available at <http://schema.politicalmashup.nl/>. 
 
 ## Data
 
@@ -28,8 +28,8 @@ Publications:
 * To be added.
 
 Various internal documentation (use at your own risk):
-* Outdated introduction: <http://data.politicalmashup.nl/RDF/parlbench.html> 
-* Incomplete but very detailed: <http://documentation.politicalmashup.nl/>
+* Readible (but not up to date) introduction: <http://data.politicalmashup.nl/RDF/parlbench.html> 
+* Incomplete but very detailed documentation: <http://documentation.politicalmashup.nl/>
 
 # Acknowledgments
 

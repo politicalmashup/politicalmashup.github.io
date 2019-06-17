@@ -1,4 +1,4 @@
-![Logo]( /images/mashup.png?raw=true "PM logo") 
+![Logo]( /images/mashup2.png?raw=true "PM logo") 
 
 Welcome to the _Political Mashup Projects_.  What started as a hallway conversation and a pilot project, grew into a series of projects and collaborations over more than a decade.  The Political Mashup Projects has been funded by a stream of projects since 2008 until today.  Its approach, its data schema, its tools, and its data have been highly influential and widely used by other researchers and projects. 
 

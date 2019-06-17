@@ -11,12 +11,11 @@
 
   <body>
 
-    <!-- HEADER, removed forkme_banner, added logo (hard) -->
+    <!-- HEADER, removed forkme_banner, added logo (html) -->
     <div id="header_wrap" class="outer">
         <header class="inner">
           
-          ![Logo](https://www.politicalmashup.nl/images/mashup.png?raw=true)
-  
+          <img src="{{ site.logo }}" style="display: block; margin: auto;" />
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
